@@ -1,9 +1,0 @@
-## Evidence
-
-Screenshots documenting the investigation are available in the [`evidence`](./evidence) folder.
-
-- `failed-login-attempts.png` — Failed authentication attempts
-- `failed-logins-by-ip.png` — Failed attempts grouped by source IP
-- `successful-logins.png` — Successful authentication events
-- `authentication-timeline.png` — Combined authentication timeline
-
