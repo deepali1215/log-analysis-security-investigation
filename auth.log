@@ -1,0 +1,10 @@
+Sep 28 08:12:14 server sshd[1021]: Failed password for analyst from 185.220.101.42 port 51422 ssh2
+Sep 28 08:12:19 server sshd[1023]: Failed password for analyst from 185.220.101.42 port 51423 ssh2
+Sep 28 08:12:25 server sshd[1025]: Failed password for analyst from 185.220.101.42 port 51424 ssh2
+Sep 28 08:12:31 server sshd[1027]: Failed password for analyst from 185.220.101.42 port 51425 ssh2
+Sep 28 08:12:38 server sshd[1029]: Failed password for analyst from 185.220.101.42 port 51426 ssh2
+Sep 28 08:15:02 server sshd[1035]: Accepted password for analyst from 192.168.1.25 port 52001 ssh2
+Sep 28 09:03:11 server sshd[1042]: Failed password for admin from 203.0.113.45 port 53110 ssh2
+Sep 28 09:03:18 server sshd[1044]: Failed password for admin from 203.0.113.45 port 53111 ssh2
+Sep 28 09:03:25 server sshd[1046]: Failed password for admin from 203.0.113.45 port 53112 ssh2
+Sep 28 09:10:44 server sshd[1052]: Accepted password for analyst from 192.168.1.25 port 53220 ssh2
