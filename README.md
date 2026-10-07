@@ -16,7 +16,7 @@ A company noticed unusual login activity involving an employee account. As a jun
 - Were any suspicious login attempts successful?
 - What pattern can be observed from the activity?
 
-- ## Tools & Commands
+## Tools & Commands
 
 - Kali Linux
 - SSH authentication logs
